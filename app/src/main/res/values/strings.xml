@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="username">Username</string>
+    <string name="username_label">Nombre de usuario:</string>
+    <string name="password_label">Contraseña:</string>
+    <string name="password">Password</string>
+    <string name="email_label">Correo Electronico</string>
+    <string name="email">Email</string>
+    <string name="gender_label">Genero</string>
+    <string name="gender">Gender</string>
+    <string name="send">Enviar</string>
+    <string name="share">Compartir</string>
+    <string name="male_label">Masculino</string>
+    <string name="female_label">Femenino</string>
+</resources>
